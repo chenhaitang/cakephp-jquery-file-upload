@@ -5,7 +5,7 @@
     "keywords": ["cakephp", "jquery", "file-upload" ],
     "require": {
         "cakephp/cakephp": "~3.0",
-        "blueimp/jquery-file-upload": "~9.0"
+        "blueimp/jquery-file-upload": "v9.25.0"
     },
     "license": "MIT",
 	"authors": [
@@ -18,5 +18,4 @@
             "CakephpJqueryFileUpload\\": "src"
         }
     }
-    
 }
